@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "79ffcab72d9967ec992f4421",
+  "owner": "rywytw3jm",
+  "repo": "page-0c639b7f06e72be72e544301",
+  "title": "风驰云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "0c639b7f06e72be72e544301",
+      "a": "风驰云",
+      "b": "",
+      "entity": "风驰云",
+      "brand": "风驰云",
+      "separator": "",
+      "path": "index.html",
+      "hash": "e54ca3a3ef5160ffe5c05639793a337fdd846f17a1cd32034944fb70a4268d6a",
+      "content": {
+        "keyword1": "风驰云",
+        "keyword2": "",
+        "primary_entity": "风驰云",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "风驰云想先跟你把节奏放慢：顺着一条时间线认识它，再看用法、三档用量、客户端和那些被反复问到的问题。像朋友聊天，不拿空话推你。",
+          "AI_DESCRIPTION": "风驰云想先跟你把节奏放慢：顺着一条时间线认识它，再看用法、三档用量、客户端和那些被反复问到的问题。像朋友聊天，不拿空话推你。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n*{box-sizing:border-box;margin:0;padding:0}\nhtml{}\nbody{font-family:\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",\"Noto Sans SC\",sans-serif;background:#fff;color:#141414;line-height:1.7;font-size:16px}\na{color:#FF4A00;text-decoration:none}\na:hover{text-decoration:underline}\n.wrap{display:flex;align-items:flex-start;min-height:100vh}\nnav{position:sticky;top:0;width:196px;flex-shrink:0;height:100vh;border-right:3px solid #141414;padding:28px 18px;background:#fff;overflow:auto}\nnav .mark{display:block;font-size:13px;font-weight:700;letter-spacing:.18em;text-transform:uppercase;color:#FF4A00;margin-bottom:8px}\nnav .nav-name{font-size:22px;font-weight:800;line-height:1.2;margin-bottom:28px;border-bottom:3px solid #141414;padding-bottom:16px}\nnav ol{list-style:none}\nnav li{margin:0 0 14px}\nnav a{display:block;color:#141414;font-size:14px;line-height:1.4;padding:6px 0 6px 12px;border-left:3px solid transparent;font-weight:600}\nnav a:hover{border-left-color:#FF4A00;color:#FF4A00;text-decoration:none}\nmain{flex:1;min-width:0;padding:36px 40px 72px}\n.inner{max-width:980px}\n.kicker{font-size:12px;letter-spacing:.22em;font-weight:700;color:#FF4A00;margin-bottom:10px}\nh1{font-size:clamp(40px,7vw,72px);line-height:1.05;letter-spacing:-.03em;font-weight:800;margin:0 0 16px}\nh2{font-size:clamp(26px,4vw,36px);line-height:1.2;margin:0 0 12px;letter-spacing:-.02em}\nh3{font-size:18px;line-height:1.35;margin:0 0 8px}\np{margin:0 0 14px}\n.lead{font-size:18px;max-width:38em}\nsection{margin:0 0 72px}\n.timeline{list-style:none;margin:28px 0 0;padding:0 0 0 78px;border-left:4px solid #FF4A00}\n.timeline li{position:relative;padding:0 0 42px}\n.timeline li:last-child{padding-bottom:0}\n.stepno{position:absolute;left:-78px;top:0;width:56px;height:56px;border:3px solid #141414;background:#FF4A00;color:#fff;font-weight:800;font-size:18px;display:flex;align-items:center;justify-content:center}\n.when{font-size:12px;font-weight:700;letter-spacing:.16em;color:#FF4A00;margin-bottom:6px}\n.steps{display:flex;flex-direction:column;gap:14px;margin-top:22px}\n.step{border:3px solid #141414;padding:18px 20px;background:#fff}\n.step header{display:flex;align-items:baseline;gap:12px;margin-bottom:6px}\n.step b{font-size:28px;color:#FF4A00;line-height:1}\n.table-wrap{overflow-x:auto;border:3px solid #141414;margin-top:22px}\ntable{width:100%;border-collapse:collapse;min-width:720px}\nth,td{border:3px solid #141414;padding:14px 16px;text-align:left;vertical-align:top}\nthead th{background:#fff;font-size:16px}\nth.hot,td.hot{background:#FF4A00;color:#fff}\nth.hot .tag,td .tag{display:inline-block;border:2px solid #141414;background:#fff;color:#141414;font-size:11px;padding:1px 8px;margin-left:8px;font-weight:700;vertical-align:middle}\ntd ul{margin:0;padding-left:18px}\ntd li{margin:0 0 6px}\n.note{margin-top:16px;border:3px solid #141414;padding:16px 18px}\n.clients{display:flex;flex-direction:column;gap:0;margin-top:22px;border:3px solid #141414}\n.client{padding:20px 22px;border-bottom:3px solid #141414}\n.client:last-child{border-bottom:0}\n.client h3{display:flex;align-items:center;gap:10px}\n.client h3 span{display:inline-block;border:3px solid #141414;background:#FF4A00;color:#fff;font-size:13px;padding:2px 8px}\n.faq-grid{display:grid;grid-template-columns:1fr 1fr;gap:18px;margin-top:22px}\n.faq-col{display:flex;flex-direction:column;gap:18px}\n.faq-col article{border:3px solid #141414;padding:18px 18px 8px}\n.q{color:#FF4A00;font-size:12px;font-weight:700;letter-spacing:.14em;margin-bottom:6px}\n.close{border:3px solid #141414;padding:28px 24px;background:#fff}\n.close p:last-child{margin-bottom:0}\n@media(max-width:860px){\n.wrap{display:block}\nnav{position:relative;width:auto;height:auto;border-right:0;border-bottom:3px solid #141414;padding:18px 16px}\nnav .nav-name{margin-bottom:12px;padding-bottom:10px}\nnav ol{display:flex;flex-wrap:wrap;gap:0 8px}\nnav li{margin:0 10px 8px 0}\nnav a{border-left:0;padding:4px 0;border-bottom:3px solid transparent}\nnav a:hover{border-bottom-color:#FF4A00}\nmain{padding:24px 16px 56px}\n.timeline{padding-left:64px}\n.stepno{left:-64px;width:48px;height:48px;font-size:16px}\n.faq-grid{grid-template-columns:1fr}\n}\n</style><div class=\"wrap\">\n<nav>\n<span class=\"mark\">目录</span>\n<p class=\"nav-name\">风驰云</p>\n<ol>\n<li><a href=\"#intro\">时间线</a></li>\n<li><a href=\"#guide\">用法</a></li>\n<li><a href=\"#plans\">三档用量</a></li>\n<li><a href=\"#clients\">客户端</a></li>\n<li><a href=\"#faq\">问答</a></li>\n<li><a href=\"#bye\">说到这儿</a></li>\n</ol>\n</nav>\n<main>\n<div class=\"inner\">\n<section id=\"intro\">\n<p class=\"kicker\">首屏 · 一条竖着的时间线</p>\n<ol class=\"timeline\">\n<li>\n<p class=\"when\">01 · 先把名字放好</p>\n<h1>风驰云</h1>\n<p class=\"lead\">嘿，别急着找价格。我想请你先把这四个字看清楚：风驰云。它听起来像一阵不肯停的风，可我更希望你进来之后，觉得对面坐着一个愿意把事情讲明白的人。</p>\n<p>很多人打开类似的页面，会被大字和表格堵住。我把首屏做成时间线，就是想让你有个落脚的地方——先认识，再决定要不要往下走。</p>\n</li>\n<li>\n<p class=\"when\">02 · 我不想一上来就推销</p>\n<h2>你要是累了，可以从这儿喘口气</h2>\n<p>选用量这事，本来不该搞得很神秘。可一旦页面上全是催促，人就容易乱点。所以这条线的第二段，只做一件事：告诉你，风驰云这页是按“先懂再选”来写的。</p>\n<p>我会把用法摊开，把三档并在一张表里，把客户端的话说老实，再把朋友们问过我的问题摆成两栏。没有表演性质的口号，也没有让你立刻下手的倒计时。</p>\n</li>\n<li>\n<p class=\"when\">03 · 这条线会把你带到哪儿</p>\n<h2>往下四段，各管一件事</h2>\n<p>用法：从估自己的习惯，到导入、试通、再加设备。套餐：基础、旗舰、团队并排对照，旗舰那列我会用 pal 色把你的视线轻轻推过去，但选哪档仍是你的事。客户端：这页不塞安装包。问答：你可能卡壳的地方，我用两栏对着说。</p>\n<p>左边那列目录像书签。随时跳，不用按我排的顺序读完。</p>\n</li>\n<li>\n<p class=\"when\">04 · 可以往下翻了</p>\n<h2>准备好就走，没准备好也没关系</h2>\n<p>要是你已经知道自己一个月大概会用掉多少，直接去<a href=\"#plans\">三档用量</a>也行。想先把步骤摸熟，就从<a href=\"#guide\">用法</a>开始。我在后面几段等你，不催。</p>\n</li>\n</ol>\n</section>\n<section id=\"guide\">\n<p class=\"kicker\">使用说明</p>\n<h2>用法其实没那么绕</h2>\n<p>把我当成一个坐在对面的朋友就好。你不用一次做完，顺序也可以按自己的脾气改。下面这五步是我自己常用的节奏。</p>\n<div class=\"steps\">\n<article class=\"step\">\n<header><b>1</b><h3>先估自己的用量，别被档位名带着跑</h3></header>\n<p>基础、旗舰、团队只是标签。你真正要问自己的是：这个月网页、影像、下载加在一起，大概会落在哪一档。估不准就从低的开始，熟悉了再换，比一上来买最大的要踏实。</p>\n</article>\n<article class=\"step\">\n<header><b>2</b><h3>选定之后，把订阅信息收好</h3></header>\n<p>套餐确认下来，你会拿到一份给工具读取的订阅信息。请你自己保存在常用的记事处，不要随手发给不相关的人。这页不演示交易过程，也不编一套“官方收银台”的故事。</p>\n</article>\n<article class=\"step\">\n<header><b>3</b><h3>打开你本来就在用的工具，把订阅贴进去</h3></header>\n<p>电脑或手机都可以。关键是工具要来自你信任的来源。导入时核对名称，避免一次贴进好几份旧的，搞得自己都分不清在用哪条。</p>\n</article>\n<article class=\"step\">\n<header><b>4</b><h3>先在一台设备上试通，再加别的</h3></header>\n<p>别五台一起开。先让一台能打开你日常会去的站点，再按套餐里的设备数量往上加。这样出问题的时候，你知道该从哪台查起。</p>\n</article>\n<article class=\"step\">\n<header><b>5</b><h3>卡住了先看问答，再决定要不要换档</h3></header>\n<p>打不开、导入失败、不知道年付划不划算，多半能在后面的两栏问答里对上号。真要换档，也请以你账户里当时能看到的说明为准，我就不在这页发明一套扣费剧本了。</p>\n</article>\n</div>\n</section>\n<section id=\"plans\">\n<p class=\"kicker\">套餐对照</p>\n<h2>三档用量，摊在一张表上</h2>\n<p>说真的，表格比一堆漂亮卡片老实。你横着看同一行，差在哪儿一眼就出来。旗舰那列我涂了高饱和的橙，只是因为很多人会在中间档停一下——不是命令你必须买它。</p>\n<div class=\"table-wrap\">\n<table>\n<thead>\n<tr>\n<th>对照项</th>\n<th>基础版</th>\n<th class=\"hot\">旗舰版 <span class=\"tag\">常被问起</span></th>\n<th>团队版</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>月付</td>\n<td>¥15 / 月</td>\n<td class=\"hot\">¥35 / 月</td>\n<td>¥85 / 月</td>\n</tr>\n<tr>\n<td>年付</td>\n<td>按年付 ¥150 / 年</td>\n<td class=\"hot\">按年付 ¥350 / 年</td>\n<td>按年付 ¥850 / 年</td>\n</tr>\n<tr>\n<td>每月用量</td>\n<td>100GB</td>\n<td class=\"hot\">300GB</td>\n<td>1000GB</td>\n</tr>\n<tr>\n<td>同时在线</td>\n<td>3 台设备</td>\n<td class=\"hot\">5 台设备</td>\n<td>20 台设备</td>\n</tr>\n<tr>\n<td>这档更像给谁</td>\n<td>一个人、日常网页和普通影音，想先试试手感。</td>\n<td class=\"hot\">设备和用量都多一点，影音线路写得更完整，工单排队会靠前一些。</td>\n<td>人多、设备多，需要把路由按自己的习惯拆开，也希望有人对接。</td>\n</tr>\n<tr>\n<td>套餐里写着的权益</td>\n<td>\n<ul>\n<li>常规线路节点池</li>\n<li>基础流媒体访问</li>\n<li>适合先摸清自己的节奏</li>\n</ul>\n</td>\n<td class=\"hot\">\n<ul>\n<li>全节点原生流媒体解锁</li>\n<li>专线方向的游戏向优化</li>\n<li>7×24 优先工单</li>\n</ul>\n</td>\n<td>\n<ul>\n<li>VIP 专属高带宽节点</li>\n<li>企业定制路由</li>\n<li>专属客户经理对接</li>\n</ul>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n<div class=\"note\">\n<p>年付相当于少付两个月的月费，适合你已经用顺手、不想每个月点一次的情况。要是你还在观察自己到底会用掉多少，月付更灵活。具体能否切换、何时生效，请看你账户里当时的说明，我这边不编退换规则。</p>\n</div>\n</section>\n<section id=\"clients\">\n<p class=\"kicker\">客户端</p>\n<h2>安装包我故意不放</h2>\n<p>风驰云这页目前没有一份整理好的官方客户端清单，我也没有可靠的下载地址可以塞给你。与其丢来路不明的链接，不如把话说直：用你本来信任的通用订阅工具就行。</p>\n<div class=\"clients\">\n<article class=\"client\">\n<h3><span>导入</span> 把订阅贴进你正在用的工具</h3>\n<p>大多数订阅类工具都认同一类地址或二维码。新建一份配置，名称写清楚，比如“风驰云-自用”，以后改档才不会找错。这里不提供下载，链接只能先空着。</p>\n<p><a href=\"#\">订阅导入说明（地址待补）</a></p>\n</article>\n<article class=\"client\">\n<h3><span>设备</span> 电脑和手机都能用，软件请你自己挑</h3>\n<p>我不会列出一份“全平台官方兼容表”，因为那需要逐项核实。你日常已经在用的系统，只要工具能导入订阅，就可以先试。装软件请走你信任的来源，别在陌生网盘里找打包文件。</p>\n<p><a href=\"#\">常用工具来源（地址待补）</a></p>\n</article>\n<article class=\"client\">\n<h3><span>试通</span> 先看能不能打开你真正在意的站点</h3>\n<p>导入成功不等于万事大吉。选一个你每天都会去的页面试一次，再决定要不要把第二台设备加进来。失败的话，先核对订阅有没有贴完整，再来问答区对一下常见卡点。</p>\n<p><a href=\"#\">试通时的核对清单（地址待补）</a></p>\n</article>\n</div>\n</section>\n<section id=\"faq\">\n<p class=\"kicker\">常见问题</p>\n<h2>你问过我的，我摊开说</h2>\n<p>左边一栏偏“它是什么、怎么开始”，右边一栏偏“导入、设备和用量”。两栏对着读也行，跳着读也行。</p>\n<div class=\"faq-grid\">\n<div class=\"faq-col\">\n<article>\n<p class=\"q\">问 · 认识</p>\n<h3>风驰云到底是什么？</h3>\n<p>对我来说，它是一个把用量分成三档、让你按自己节奏接入的名字。这页只讲得清的部分：怎么选、怎么导入、卡住了看哪。公司身份、节点清单、评测数字，我手头没有可核对的材料，就不编。</p>\n</article>\n<article>\n<p class=\"q\">问 · 开始</p>\n<h3>我完全没碰过这类东西，第一步做什么？</h3>\n<p>先别打开表格。回到上面的用法，用一分钟估自己更像 100GB、300GB 还是更多。估完再看表。工具的事放在第三步，否则你容易在下载里迷路。</p>\n</article>\n<article>\n<p class=\"q\">问 · 挑选</p>\n<h3>三档我该怎么开口问自己？</h3>\n<p>一个人三台设备、用量不大，基础版通常够聊天。设备和影像都更勤快，再看旗舰。家里或小组要挂很多台、还想把路由拆开，才需要把团队版拿出来比。名字听着响，不代表你必须往上爬。</p>\n</article>\n<article>\n<p class=\"q\">问 · 年付</p>\n<h3>年付听起来便宜，我该不该一次付？</h3>\n<p>数字上确实少两个月。可前提是你已经用顺手。还在试的人，月付更对得起自己的犹豫。划不划算只有你自己的习惯能回答，我不会用“所有人都该年付”这种句子来推你。</p>\n</article>\n</div>\n<div class=\"faq-col\">\n<article>\n<p class=\"q\">问 · 客户端</p>\n<h3>为什么这里一个安装按钮都没有？</h3>\n<p>因为我没有一份经得起核对的下载地址。乱放链接比不放更不负责。你用自己信任的工具导入就好。哪天有了可靠来源，再把空链接补上，在那之前请把“官方安装包”四个字从这页划掉。</p>\n</article>\n<article>\n<p class=\"q\">问 · 设备</p>\n<h3>3 台、5 台、20 台是怎么算的？</h3>\n<p>按同时在线理解最省事：同一时刻挂着的设备数，不要超过那一档写明的数字。电脑、手机、平板各算一台。先占满再抱怨不够，不如一开始就按自己家里那几块屏幕来挑。</p>\n</article>\n<article>\n<p class=\"q\">问 · 用量</p>\n<h3>100、300、1000 这些数字，我怎么对照生活？</h3>\n<p>网页和聊天通常很轻；影像和下载会把数字吃得很快。你要是说不清，就从 100GB 那档过一个月，看账户里实际走了多少，再决定要不要挪到中间档。这页不会假装能替你预测下个月。</p>\n</article>\n<article>\n<p class=\"q\">问 · 卡壳</p>\n<h3>导入失败或打不开，我先查哪几处？</h3>\n<p>订阅有没有贴完整、工具是不是旧的一份配置在打架、是不是一次开了超过套餐允许的设备。这三处能排除大半手忙脚乱。还是不行，再按你账户里的工单入口去问——旗舰和团队在表里写了更靠前的支持，基础版就按普通排队来预期。</p>\n</article>\n</div>\n</div>\n</section>\n<section id=\"bye\">\n<div class=\"close\">\n<p class=\"kicker\">收束</p>\n<h2>先看到这里，就够今天用了</h2>\n<p>风驰云这页想做的事情很简单：让你顺着一条竖线把名字听完，再自己决定要不要动手。用法在上面，表格在中间，客户端我把空的地方空着，问答在两栏里等你对号。</p>\n<p>接下来你可以回<a href=\"#guide\">用法</a>按五步走，或去<a href=\"#plans\">三档用量</a>横着比一比。不点也没关系。真要找我时，从左边目录进来就行，我还在原处。</p>\n</div>\n</section>\n</div>\n</main>\n</div>",
+          "hash": "a5b246f52d21eb903ec10dd1580acd071d7dcae7672fc8c92eec51cdb8c5abf4",
+          "seo": {
+            "title": "风驰云｜顺着时间线认识这三档用量",
+            "keywords": "风驰云,风驰云套餐,风驰云使用说明,风驰云客户端,风驰云常见问题",
+            "description": "风驰云想先跟你把节奏放慢：顺着一条时间线认识它，再看用法、三档用量、客户端和那些被反复问到的问题。像朋友聊天，不拿空话推你。"
+          },
+          "provider": "grok",
+          "model": "grok-4-6",
+          "design": {
+            "no": "5125",
+            "hero": "6 纵向时间线引入",
+            "palette": "6 纯白配高饱和橙",
+            "nav": "2 左侧竖排目录",
+            "card": "2 粗描边直角",
+            "plans_view": "1 横向对比表格",
+            "faq_view": "1 双栏问答",
+            "tone": "2 亲切的朋友式口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xsfcxx.cn",
+    "host": "p-6557fffe4a.xsfcxx.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "70680460850d6ab798ffb7d6f2fbce7a82a22d2a0e2e98ff2cb450b458c33345",
+    "sitemap.xml": "8a8accabe12528ea6f19a2673b1ca7b04efb555018f39571a31795918fa372cd",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "c6c6f53afcd8787b02022a9e6ff78832de378fe176c386e18cb3ec971a18350b",
+    "robots.txt": "6490487b59d7ec93284aa6d17c862e2381809d5b26505bbfa467c8561c8d0c94",
+    "cc1879c79b05d8ad26a01e2e32934879.txt": "2ee3fd53f638a7f6dae92c8b465a57dee0aa5a26a7279b445ca7228e5275be63"
+  },
+  "revision": "c3556001cf896ba4190bb4b52ed4188bd579b4ecb71b749d3e424b1c79168b32"
+}
